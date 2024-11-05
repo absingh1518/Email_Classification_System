@@ -1,5 +1,5 @@
 import numpy as np
-# Download required NLTK data
+
 
 import nltk
 from nltk.tokenize import word_tokenize
@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 import string
 import re
-
+# Download required NLTK data
 nltk.download('punkt')
 nltk.download('stopwords')
 
