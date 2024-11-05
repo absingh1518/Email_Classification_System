@@ -1,5 +1,5 @@
 # Email_Classification_System
-An automated email classification system using SVM and GloVe embeddings
+An automated email classification system using SVM and GloVe embeddings integrated into Outlook using Visual Studio VSTO (Visual Studio Tools for Office) Add-in
 
 Core Technology Stack
 	•	Machine Learning: Support Vector Machine (SVM) with RBF kernel
